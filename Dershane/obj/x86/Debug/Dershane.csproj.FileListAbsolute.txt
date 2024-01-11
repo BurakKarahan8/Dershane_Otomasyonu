@@ -1,0 +1,12 @@
+C:\Users\BURAK KARAHAN\Documents\LoginScreen\Dershane\bin\x86\Debug\DershaneOgretmen.accdb
+C:\Users\BURAK KARAHAN\Documents\LoginScreen\Dershane\bin\x86\Debug\Dershane.exe.config
+C:\Users\BURAK KARAHAN\Documents\LoginScreen\Dershane\bin\x86\Debug\Dershane.exe
+C:\Users\BURAK KARAHAN\Documents\LoginScreen\Dershane\bin\x86\Debug\Dershane.pdb
+C:\Users\BURAK KARAHAN\Documents\LoginScreen\Dershane\obj\x86\Debug\Dershane.csproj.AssemblyReference.cache
+C:\Users\BURAK KARAHAN\Documents\LoginScreen\Dershane\obj\x86\Debug\Dershane.AnaGiris.resources
+C:\Users\BURAK KARAHAN\Documents\LoginScreen\Dershane\obj\x86\Debug\Dershane.Menu.resources
+C:\Users\BURAK KARAHAN\Documents\LoginScreen\Dershane\obj\x86\Debug\Dershane.Properties.Resources.resources
+C:\Users\BURAK KARAHAN\Documents\LoginScreen\Dershane\obj\x86\Debug\Dershane.csproj.GenerateResource.cache
+C:\Users\BURAK KARAHAN\Documents\LoginScreen\Dershane\obj\x86\Debug\Dershane.csproj.CoreCompileInputs.cache
+C:\Users\BURAK KARAHAN\Documents\LoginScreen\Dershane\obj\x86\Debug\Dershane.exe
+C:\Users\BURAK KARAHAN\Documents\LoginScreen\Dershane\obj\x86\Debug\Dershane.pdb
